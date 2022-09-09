@@ -7,3 +7,5 @@ y <- x^3
 plot(x, y, col = "red", type = "o", bty = "l")
 z <- x^2
 plot(x, z, col = "blue", type = "o", bty = "l")
+
+a=12
